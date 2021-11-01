@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidStudioProjects/first_android/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android/AndroidStudioProjects/first_android/client/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/AndroidStudioProjects/first_android/first_layout/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/AndroidStudioProjects/first_android/java_xml_layout/src/main/res/layout/activity_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/Android/AndroidStudioProjects/first_android/myview/src/main/res/drawable/ic_launcher_background.xml" value="0.20625" />
+        <entry key="..\:/Android/AndroidStudioProjects/first_android/myview/src/main/res/layout/activity_main.xml" value="0.33605072463768115" />
+        <entry key="..\:/Android/AndroidStudioProjects/first_android/tcpconn/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/AndroidStudioProjects/first_android/tcpconnection/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

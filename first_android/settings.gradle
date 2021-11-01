@@ -1,0 +1,17 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "first_android"
+include ':app'
+include ':first_layout'
+include ':java_ui_layout'
+include ':java_xml_layout'
+include ':myview'
+include ':tcpconnection'
+include ':tcpconn'
+include ':client'
